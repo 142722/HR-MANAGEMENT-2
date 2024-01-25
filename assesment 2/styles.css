@@ -1,0 +1,27 @@
+<style>
+    h1{
+      background: burlywood;
+      text-decoration: underline;
+
+
+    }
+    body{
+        background: burlywood;
+        table-layout: inherit;
+        padding: inherit;
+        font-size: 22px;
+        font-family: KacstBook;
+        padding: 22px;
+
+    }
+    p{
+        font-family: "FreeSerif";
+    }
+    h3{
+        font-family: "Gayathri Thin";
+        text-decoration: underline;
+    }
+    button{
+      background: chocolate;
+    }
+  </style>

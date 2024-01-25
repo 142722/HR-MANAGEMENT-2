@@ -1,0 +1,10 @@
+ h1{
+            font-size: 35px;
+            text-decoration: underline;
+            color: chocolate;
+            font-family: inherit;
+        }
+        body{
+            background-image: cross-fade();
+            background: bisque;
+            border: chocolate;
